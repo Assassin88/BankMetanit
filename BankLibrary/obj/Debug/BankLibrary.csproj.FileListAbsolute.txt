@@ -1,0 +1,5 @@
+F:\Projects\BankMetanit\BankMetanit\BankLibrary\bin\Debug\BankLibrary.dll
+F:\Projects\BankMetanit\BankMetanit\BankLibrary\bin\Debug\BankLibrary.pdb
+F:\Projects\BankMetanit\BankMetanit\BankLibrary\obj\Debug\BankLibrary.csprojResolveAssemblyReference.cache
+F:\Projects\BankMetanit\BankMetanit\BankLibrary\obj\Debug\BankLibrary.dll
+F:\Projects\BankMetanit\BankMetanit\BankLibrary\obj\Debug\BankLibrary.pdb

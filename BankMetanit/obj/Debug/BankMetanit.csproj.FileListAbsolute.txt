@@ -1,0 +1,14 @@
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\bin\Debug\BankMetanit.exe.config
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\bin\Debug\BankMetanit.exe
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\bin\Debug\BankMetanit.pdb
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\bin\Debug\BankLibrary.dll
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\bin\Debug\BankLibrary.pdb
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\obj\Debug\BankMetanit.csprojResolveAssemblyReference.cache
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\obj\Debug\BankMetanit.exe
+F:\Projects\BankMetanit\BankMetanit\BankMetanit\obj\Debug\BankMetanit.pdb
+F:\Projects\BankMetanit\BankMetanit\bin\Debug\BankMetanit.exe.config
+F:\Projects\BankMetanit\BankMetanit\obj\Debug\BankMetanit.exe
+F:\Projects\BankMetanit\BankMetanit\obj\Debug\BankMetanit.pdb
+F:\Projects\MetanitBank\BankMetanit\bin\Debug\BankMetanit.exe.config
+F:\Projects\MetanitBank\BankMetanit\obj\Debug\BankMetanit.exe
+F:\Projects\MetanitBank\BankMetanit\obj\Debug\BankMetanit.pdb
